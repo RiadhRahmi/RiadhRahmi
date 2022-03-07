@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **RiadhRahmi/RiadhRahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
-CMS: Drupal and Wordpress
-Backend: Laravel and Symfony
-Frontend: Reactjs and Vuejs
-Mobile: React Native
+
+- CMS: Drupal and Wordpress
+- Backend: Laravel and Symfony
+- Frontend: Reactjs and Vuejs
+- Mobile: React Native
