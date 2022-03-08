@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-- CMS: Drupal and Wordpress
+- CMS: Drupal, Wordpress, Prestashop and Magento
 - Backend: Laravel and Symfony
 - Frontend: Reactjs and Vuejs
 - Mobile: React Native
