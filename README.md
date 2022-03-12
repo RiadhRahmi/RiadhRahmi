@@ -22,5 +22,4 @@ Here are some ideas to get you started:
 - Backend: Laravel and Symfony
 - Frontend: Reactjs and Vuejs
 ----------------------------------------------
-- Mobile: React Native a long terme
 
