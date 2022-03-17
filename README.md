@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 ----------------------------------------------
 - CMS: Drupal, Wordpress, Prestashop and Magento
 - Backend: Laravel and Symfony
-- Frontend: Reactjs and Vuejs
+- Frontend: HTML, CSS, SASS, Jquery, Bootstrap, Reactjs, Vuejs and Angular
 ----------------------------------------------
 
