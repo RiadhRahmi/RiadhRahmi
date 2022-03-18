@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - My Skills
 
 ----------------------------------------------
-- CMS: Drupal, Wordpress, Prestashop and Magento
+- CMS: Drupal
 - Backend: Laravel and Symfony
-- Frontend: HTML, CSS, SASS, Jquery, Bootstrap, Reactjs, Vuejs and Angular
+- Frontend: Vuejs and Reactjs
 ----------------------------------------------
-
