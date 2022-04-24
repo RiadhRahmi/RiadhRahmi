@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 - CMS: Drupal
 - Backend: Symfony and Laravel
 - Frontend: Reactjs and Vuejs
-- Mobile: React Native
 ----------------------------------------------
