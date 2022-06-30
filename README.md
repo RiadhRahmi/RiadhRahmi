@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - My Skills
 
 ----------------------------------------------
-- CMS: Drupal
-- Backend: Symfony and Laravel
-- Frontend: Reactjs and Vuejs
+- Backend: Drupal, Laravel, Symfony
+- Frontend: Reactjs, Vuejs, Angular
 ----------------------------------------------
