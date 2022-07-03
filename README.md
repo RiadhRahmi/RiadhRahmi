@@ -13,3 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
+
+My Skills:
+
+Back: PHP(Drupal, Laravel, Symfony), Java(Spring boot), .net (Asp.net core)
+Front: Reactjs, Vuejs, Angular
