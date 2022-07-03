@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 - My Skills:
 
-- Back: PHP(Drupal, Laravel, Symfony), Java(Spring boot), .net (Asp.net core)
+- Back: PHP (Drupal, Laravel, Symfony), .net (Asp.net core), Java(Spring boot)
 - Front: Reactjs, Vuejs, Angular
