@@ -1,24 +1,22 @@
-### Hi there 👋
+I am a PHP/Drupal & Laravel web developer, experienced in planning and developing large scale dynamic web applications.
 
+Technical skills :
 
-**RiadhRahmi/RiadhRahmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Methodologies: Agile / Scrum, JIRA, Trello, Redmine, Planio
 
-Here are some ideas to get you started:
+  - Development:
+      - Languages: PHP, JS, Java
+      - CMS & CMF: Drupal 8+ , Laravel 5+
+      - Frontend: HTML/CSS/JS (SASS, JQuery, Bootstrap, Gulp, webpack), vuejs.
+      - Knowledge in Reactjs, Angular, Java, Android, Prestashop.
+  - Database / server: MySQL, Postgresql.
+  - Template engines: Twig, Blade
+  - Modeling and design: UML, RAML, Swagger, Scribe, SOLID.
+  - Devops & tools: Git, Docker, Gitlab, Bitbucket, Github, Linux, Phing, Redis,
+     elasticsearch, Firebase, Composer, Drush, Laragon, Ubuntu, Lando, Ddev, Windows, PHPstorm, VSC.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
-
--
--
--
-
-- My Skills:
-
-- Back: PHP (Drupal, Laravel, Symfony), .net (Asp.net core), Java(Spring boot)
-- Front: Reactjs, Vuejs, Angular
+Links :
+- https://www.codimth.com/ (my personal blog)
+- https://github.com/RiadhRahmi?tab=repositories
+- https://www.drupal.org/u/riadh-rahmi
+- https://github.com/codimth
