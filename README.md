@@ -8,7 +8,7 @@ Technical skills :
       - Languages: PHP, JS, Java
       - CMS & CMF: Drupal 8+ , Laravel 5+
       - Frontend: HTML/CSS/JS (SASS, JQuery, Bootstrap, Gulp, webpack), vuejs.
-      - Knowledge in Reactjs, Angular, Java, Android, Prestashop.
+      - Knowledge in Reactjs, Angular, Java, Android, Prestashop, Symfony.
   - Database / server: MySQL, Postgresql.
   - Template engines: Twig, Blade
   - Modeling and design: UML, RAML, Swagger, Scribe, SOLID.
