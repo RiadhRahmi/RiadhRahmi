@@ -11,7 +11,7 @@ Technical skills :
       - Knowledge in Reactjs, Angular, Java, Android, Prestashop, Symfony.
   - Database / server: MySQL, Postgresql.
   - Template engines: Twig, Blade
-  - Modeling and design: UML, RAML, Swagger, Scribe, SOLID.
+  - Modeling and design: UML, RAML, Swagger, Scribe, SOLID, Design patterns .
   - Devops & tools: Git, Docker, Gitlab, Bitbucket, Github, Linux, Phing, Redis,
      elasticsearch, Firebase, Composer, Drush, Laragon, Ubuntu, Lando, Ddev, Windows, PHPstorm, VSC.
 
