@@ -5,10 +5,10 @@ Technical skills :
   - Methodologies: Agile / Scrum, JIRA, Trello, Redmine, Planio
 
   - Development:
-      - Languages: PHP, JS, Java
+      - Languages: PHP, JS
       - CMS & CMF: Drupal 8+ , Laravel 5+
       - Frontend: HTML/CSS/JS (SASS, JQuery, Bootstrap, Gulp, webpack).
-      - Knowledge in Reactjs, vuejs.
+      - Knowledge in Reactjs, vuejs, Symfony.
   - Database / server: MySQL, Postgresql.
   - Template engines: Twig, Blade
   - Modeling and design: UML, RAML, Swagger, Scribe, SOLID, Design patterns .
